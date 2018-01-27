@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+.nav {
+  /*font-family: 'Rubik Mono One', sans-serif;*/
+}
+.nav-link{
+  color: black;
+}
+.hello {
+  font-family: 'Hanalei', cursive;
+}
+.logo {
+  width: 300px;
+  height: auto;
+}
