@@ -23,7 +23,7 @@
   color: black;
 }
 .logos{
-  /*display: inline-block;*/
+  display: inline-block;
   margin: 10px 10px;
 }
 body{
@@ -32,4 +32,8 @@ body{
 }
 .textwriting {
   font-family: 'Slabo 27px', serif;
+}
+.logorow {
+  margin-top: 20px;
+
 }
