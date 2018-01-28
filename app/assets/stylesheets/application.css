@@ -14,15 +14,22 @@
  *= require_self
  */
 .nav {
-  /*font-family: 'Rubik Mono One', sans-serif;*/
+  /*font-family: 'Amatic SC', cursive;*/
+  font-family: 'Bree Serif', serif;
+  font-size: 1.2rem;
+
 }
 .nav-link{
   color: black;
 }
-.hello {
-  font-family: 'Hanalei', cursive;
+.logos{
+  /*display: inline-block;*/
+  margin: 10px 10px;
 }
-.logo {
-  width: 300px;
-  height: auto;
+body{
+   background-image: url("background-01.svg");
+
+}
+.textwriting {
+  font-family: 'Slabo 27px', serif;
 }
